@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// 公開時に独自ドメインへ差し替える（例: https://example.com）
+// 本番URL（独自ドメイン取得後にそのドメインへ差し替える）
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://ai-tools-hikaku.pages.dev',
 });

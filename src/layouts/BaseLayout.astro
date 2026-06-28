@@ -1,0 +1,55 @@
+---
+// 共通レイアウト。SEOの基本メタを集約する。
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'AIツールの料金・機能を用途別に比較。料金は毎月更新。' } = Astro.props;
+const siteName = 'AIツール比較ノート';
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | {siteName}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="canonical" href={Astro.url.href} />
+    <!-- GA4 測定IDが決まったらここに計測タグを挿入する -->
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="brand">{siteName}</a>
+      <nav><a href="/">ホーム</a></nav>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>運営者情報・免責事項（E-E-A-T用に整備予定）</p>
+      <p>当サイトはアフィリエイト広告を利用しています。料金は記載の更新日時点の情報です。</p>
+      <p>&copy; {new Date().getFullYear()} {siteName}</p>
+    </footer>
+    <style is:global>
+      :root { --fg:#1a1a1a; --muted:#666; --accent:#2563eb; --bd:#e5e7eb; }
+      * { box-sizing: border-box; }
+      body { margin:0; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; color:var(--fg); line-height:1.8; }
+      .container { max-width: 760px; margin:0 auto; padding: 0 20px 60px; }
+      .site-header { display:flex; justify-content:space-between; align-items:center; max-width:760px; margin:0 auto; padding:18px 20px; border-bottom:1px solid var(--bd); }
+      .brand { font-weight:700; font-size:1.1rem; text-decoration:none; color:var(--fg); }
+      nav a { color:var(--accent); text-decoration:none; margin-left:16px; }
+      .site-footer { border-top:1px solid var(--bd); margin-top:40px; padding:24px 20px; color:var(--muted); font-size:.85rem; max-width:760px; margin-inline:auto; }
+      h1 { line-height:1.4; }
+      a { color: var(--accent); }
+      table { border-collapse: collapse; width:100%; margin:20px 0; font-size:.95rem; }
+      th, td { border:1px solid var(--bd); padding:8px 10px; text-align:left; }
+      th { background:#f8fafc; }
+      .meta { color:var(--muted); font-size:.85rem; }
+      .card { display:block; padding:16px; border:1px solid var(--bd); border-radius:10px; margin:12px 0; text-decoration:none; color:inherit; }
+      .card:hover { border-color:var(--accent); }
+    </style>
+  </body>
+</html>

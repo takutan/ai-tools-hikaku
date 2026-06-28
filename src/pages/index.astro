@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const articles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.updated.valueOf() - a.data.updated.valueOf());
+---
+<BaseLayout title="AIツールの料金・機能比較">
+  <h1>AIツール比較ノート</h1>
+  <p>用途別にAIツールの料金・機能を比較します。料金情報は毎月更新しています。</p>
+
+  {articles.length === 0 && <p class="meta">記事を準備中です。</p>}
+
+  {articles.map((a) => (
+    <a class="card" href={`/articles/${a.id}/`}>
+      <strong>{a.data.title}</strong>
+      <p class="meta">{a.data.category}・更新 {a.data.updated.toLocaleDateString('ja-JP')}</p>
+      <p>{a.data.description}</p>
+    </a>
+  ))}
+</BaseLayout>

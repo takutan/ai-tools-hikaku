@@ -29,6 +29,13 @@ draft: false
 - AIの文字起こしは**下書き**と割り切り、固有名詞や言い回しだけ人が直すと速い。
 - 料金は時間課金か月額かを使用頻度で選ぶ（[料金体系の見方](/articles/ai-mojiokoshi-ryokin/)）。
 
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>取材の録音には、AI搭載ボイスレコーダーを使うと録音から文字起こし・要約まで一気に効率化できます。<strong>PLAUD NOTE</strong>はワンタッチ録音・多言語対応・長時間録音に対応し、インタビューの記録に向いています。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+CP8XDE+5J4W+5YZ76" rel="sponsored nofollow noopener" target="_blank">PLAUD NOTE をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B66KI+CP8XDE+5J4W+5YZ76" alt="">
+</div>
+
 ## まとめ
 
 インタビューの文字起こしは「話者分離・長時間対応・修正のしやすさ・忠実さ」で選びます。会議用とは基準が違う点に注意。ツール全体の比較は[選び方と比較](/articles/ai-gijiroku-tool-hikaku/)をご覧ください。

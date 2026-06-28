@@ -46,6 +46,13 @@ draft: false
 ### 3. すでにAIツールを契約している
 **汎用AIアシスタント型**で代替できる場合があります。新たな契約を増やす前に、手持ちの環境で文字起こし・要約ができないか確認すると、コストを抑えられます。
 
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>ソフトだけでなく、専用デバイスという選択肢もあります。<strong>ZENCHORD1</strong>はNotta搭載のAI議事録イヤホンで、装着するだけで会議や商談の録音・文字起こし・要約まで対応。スマホ操作なしでハンズフリーに記録できます。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+CO225U+5QLS+HV7V6" rel="sponsored nofollow noopener" target="_blank">AI議事録イヤホン ZENCHORD1 をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B66KI+CO225U+5QLS+HV7V6" alt="">
+</div>
+
 ## 料金で失敗しないコツ
 
 - **まず無料枠で日本語精度を試す**：精度は実際の音声で試さないと分かりません。自分の会議の録音で必ずテストを。

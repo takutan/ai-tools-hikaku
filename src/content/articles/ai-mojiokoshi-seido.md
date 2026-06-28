@@ -16,6 +16,13 @@ draft: false
 - **静かな場所で録る**：空調・キーボード音・反響が誤変換の原因。会議室なら中央より話者の近くにマイクを。
 - **複数人ならマイクを分ける**：可能なら1人1マイク。話者分離の精度も上がります。
 
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>マイクや環境を整えても精度が物足りない場合は、AI搭載のボイスレコーダーという選択肢もあります。たとえば<strong>PLAUD NOTE</strong>は、ワンタッチ録音とAIによる高精度な文字起こし・要約に対応し、多言語・長時間の録音にも向きます。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+CP8XDE+5J4W+5YZ76" rel="sponsored nofollow noopener" target="_blank">PLAUD NOTE をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B66KI+CP8XDE+5J4W+5YZ76" alt="">
+</div>
+
 ## 2. 話し方を少し意識する
 
 - **一拍おいて話す**：話者が被ると認識精度が落ちます。発言の頭に軽く間を。

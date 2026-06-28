@@ -33,4 +33,9 @@ draft: false
 
 AI翻訳・要約は「精度・レイアウト保持・要約機能・対応形式・機密性」で選びます。図表のある資料ならレイアウト保持型が快適。会議や取材の文字起こしと組み合わせれば、多言語の情報処理も効率化できます（[AI議事録・文字起こしツールの選び方](/articles/ai-gijiroku-tool-hikaku/)）。
 
-<!-- REC-LINK: Languise のa8コード取得後にrec-boxを挿入 -->
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>図表のある資料をレイアウトそのまま翻訳・要約したいなら、<strong>Languise</strong>が便利です。ファイルを丸ごと翻訳・校正・要約でき、論文や技術資料の読み込みを効率化できます。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+DXWFQQ+5L4K+5YJRM" rel="sponsored nofollow noopener" target="_blank">AI翻訳・要約ツール「Languise」をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B66KI+DXWFQQ+5L4K+5YJRM" alt="">
+</div>

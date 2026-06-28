@@ -32,4 +32,9 @@ draft: false
 
 AIスライド作成は「自動生成精度・デザイン性・編集のしやすさ・料金」で選びます。叩き台づくりを任せて、仕上げを人が行うのが最も効率的。資料作成にかかる時間を大きく削減できます。
 
-<!-- REC-LINK: イルシル のa8コード取得後にrec-boxを挿入 -->
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>テキストから日本語の資料を自動生成したいなら、<strong>イルシル</strong>が便利です。箇条書きや文章を入れるだけでスライドの下地が作れ、テンプレートも豊富。資料作成の時短に向いています。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+DJM182+5UMS+5YJRM" rel="sponsored nofollow noopener" target="_blank">AIスライド作成ツール「イルシル」をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B66KI+DJM182+5UMS+5YJRM" alt="">
+</div>

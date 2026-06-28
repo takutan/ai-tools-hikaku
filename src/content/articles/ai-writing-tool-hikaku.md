@@ -38,4 +38,12 @@ draft: false
 
 AIライティングは「生成・校正・SEO記事」のどのタイプが必要かを最初に決めるのが近道です。質を上げたいなら校正型、量産したいならSEO記事型を。文字起こしと組み合わせれば、会議メモから文書化までを効率化できます（[AI議事録・文字起こしツールの選び方](/articles/ai-gijiroku-tool-hikaku/)）。
 
-<!-- REC-LINK: 文賢 / Value AI Writer のa8コード取得後にrec-boxを挿入 -->
+<div class="rec">
+<p class="rec-label">PR・おすすめのツール</p>
+<p>文章の質を上げたいなら、校正・推敲に特化した<strong>文賢</strong>が便利です。読みやすさや表現を多角的にチェックでき、メールや資料の仕上げに役立ちます。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+DRY3OY+3Q2O+HV7V6" rel="sponsored nofollow noopener" target="_blank">文章作成アドバイスツール「文賢」をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B66KI+DRY3OY+3Q2O+HV7V6" alt="">
+<p>SEO記事を量産したいメディア運営者には、<strong>Value AI Writer byGMO</strong>のようなSEO記事生成ツールが効率的です。キーワードから記事の構成・本文を作成できます。</p>
+<p class="rec-link"><a href="https://px.a8.net/svt/ejp?a8mat=4B66KI+D73XIQ+1JUK+1HL85U" rel="sponsored nofollow noopener" target="_blank">SEO記事生成AI「Value AI Writer byGMO」をチェックする</a></p>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B66KI+D73XIQ+1JUK+1HL85U" alt="">
+</div>
